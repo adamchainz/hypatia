@@ -97,6 +97,8 @@ Other Helpers
    .. autoclass:: FieldIndex
       :members:
 
+   .. autoclass:: GlobalObjectFieldIndex
+
 .. _api_keywordindex_section:
 
 :mod:`hypatia.keyword`

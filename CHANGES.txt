@@ -24,6 +24,9 @@ Next release
   confusion with dictionary ``clear`` (catalog is often dictionarylike).
   Catalog ``clear_indexes`` method replaced with ``reset``.
 
+- Add ``hypatia.field.GlobalFieldIndex`` index type, for indexing and
+  searching for values that are global (importable) objects.
+
 0.1a1
 -----
 
